@@ -20,4 +20,7 @@ I have created these programms for those who are from technical background and a
 15) How to create Inheritance in Python
 16) How to create Polymorphism in Python
 17) try:  except: and finally block for error handling
+18) Comprehension, List,Array,Dictionary
+19) MySQL database connections
+20) Type casting
 
