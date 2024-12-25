@@ -31,5 +31,6 @@ I have created these programms for those who are from technical background and a
 26) How to handle parameters passed from commandline to the program
 27) Serialization(Pickel and Unpickling) in Python
 28) How to create modules and how to import the module in programs
+29) Abstract class implementation
     
 
