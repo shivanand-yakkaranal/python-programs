@@ -1,0 +1,9 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+title = "Shivappa Yakkaranal"
+
+[owner]
+name = "shivappa-yakkaranal"
+dob = 2025-01-23T07:32:00-08:00 # First class dates
